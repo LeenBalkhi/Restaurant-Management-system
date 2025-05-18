@@ -61,6 +61,3 @@ The application will automatically reload upon saving changes to the code.
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is open-source and available under the MIT License.
