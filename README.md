@@ -1,10 +1,10 @@
 # Restaurant Management System
 
-A graduation project implementing a Restaurant Management System using TypeScript, Node.js, and TypeORM.
+A graduation project implementing a Restaurant Management System using TypeScript, Node.js, TypeORM, and Python
 
 ## Overview
 
-This project is a backend application for managing restaurant operations, including order processing, menu management, and more. It leverages TypeScript and Node.js, with TypeORM for database interactions.
+This project is a backend application for managing restaurant operations, including order processing, Warehouse mnanagment and Recommendation systems. It leverages TypeScript and Node.js, with TypeORM for database interactions. and Tensorflow python for recommendation system
 
 ## Getting Started
 
